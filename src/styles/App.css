@@ -1,0 +1,55 @@
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar, .footer {
+  background-color: #333;
+}
+
+.navbar-brand {
+  margin-right: auto;
+}
+
+.nav-link {
+  color: #ffa500 !important;
+}
+
+.nav-link:hover {
+  color: #ffcc00 !important;
+}
+
+.card {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+}
+
+.card-title, .card-text {
+  color: #ffa500;
+}
+
+.btn-primary {
+  background-color: #ffa500;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #ffcc00;
+  color: #000;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.card, .btn, .navbar, .footer {
+  transition: all 0.3s ease;
+}
+
+.container {
+  padding: 20px;
+}

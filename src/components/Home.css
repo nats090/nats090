@@ -1,0 +1,12 @@
+.home-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 56px); /* Adjust based on your navbar height */
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.home-content {
+  text-align: center;
+}
