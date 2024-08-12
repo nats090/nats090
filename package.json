@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "1.0.0",
   "description": "My personal portfolio website",
-  "homepage": "https://nats090.github.io/natsss",
+  "homepage": "https://nats090.github.io/nat090",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
