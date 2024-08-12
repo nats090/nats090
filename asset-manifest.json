@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/natsss/static/css/main.db61790f.css",
+    "main.js": "/natsss/static/js/main.0a0142ff.js",
+    "index.html": "/natsss/index.html",
+    "main.db61790f.css.map": "/natsss/static/css/main.db61790f.css.map",
+    "main.0a0142ff.js.map": "/natsss/static/js/main.0a0142ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db61790f.css",
+    "static/js/main.0a0142ff.js"
+  ]
+}
